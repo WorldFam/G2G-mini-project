@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JPB9cRvKuH6wI0EmWnzABjjOQ9u5xOuUwthvgqbiqcrjya+14RSnHW+TNHvUFaT8i0shTflIeGraHx7ytiZb8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mirek\\source\\repos\\ConsoleApp1\\PCL_Case_Work\\PCL_Case_Work.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mirek\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
